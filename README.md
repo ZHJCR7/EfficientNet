@@ -45,7 +45,7 @@ FaceForensicspp
 
 ### Experiment
 
-![Figure_1](G:\DeepFake\Github\EfficientNet\picture\Figure_1.png)
+![Figure_1](.\picture\Figure_1.png)
 
 ### Reference
 
